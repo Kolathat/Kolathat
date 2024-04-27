@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I've been learning Data Engineering for 2 month
+I'm Data scientist & Analysis. I've been learning Data Engineering.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [kolathatv@hotmail.com](mailto:kolathatv@hotmail.com)
