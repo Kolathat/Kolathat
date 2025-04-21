@@ -7,7 +7,7 @@ Student
 I'm Data scientist & Analysis. I've been learning Data Engineering.
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [kolathatv@hotmail.com](mailto:kolathatv@hotmail.com)
+* ✉️  You can contact me at [kolathatv@hotmail.com](mailto:kolathat.vong@gmail.com)
 * 🤝  I'm open to collaborating on Forecast-Exchange-Rate
 
 ### Skills
